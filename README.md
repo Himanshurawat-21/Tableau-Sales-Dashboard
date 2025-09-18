@@ -8,8 +8,8 @@
 ## 📂 Project Structure
 
     Tableau-Sales-Dashboard/
-    │── data/                  # dataset (sample or raw data)
-    │── Tableau-Sales.twb      # Tableau workbook file
+    │── dataset/                  # dataset (sample or raw data)
+    │── dashboard/      # Tableau workbook file is present here
     │── README.md              # documentation
 
 
