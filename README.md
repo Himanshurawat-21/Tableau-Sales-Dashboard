@@ -53,14 +53,41 @@ git clone https://github.com/Himanshurawat-21/Tableau-Sales-Dashboard.git
 
 ## 🧾 Dataset Overview
 
-- dataset/sales_data.csv (example): Contains sales transactions with columns like:
+- dataset/Customers.csv: Contains columns like:
 
-  - OrderID – Unique order identifier
-  - Product – Product name
-  - Category – Product category
-  - Region – Sales region
-  - Sales – Sales amount
-  - Profit – Profit amount
+  - Customer ID
+  - Customer Name
+
+- dataset/Location.csv: Contains columns like:
+
+  - Postal Code
+  - City
+  - State
+  - Region
+  - Country/Region
+
+- dataset/Orders.csv: Contains columns like:
+
+  - Row ID
+  - Order ID
+  - Order Date
+  - Ship Date
+  - Ship Mode
+  - Customer ID
+  - Segment
+  - Postal Code
+  - Product ID
+  - Sales
+  - Quantity
+  - Discount
+  - Profit
+
+- dataset/Products.csv: Contains columns like:
+
+  - Product ID
+  - Category
+  - Sub-Category
+  - Product Name
 
 ## 📸 Screenshots
  <img width="1211" height="820" alt="image" src="https://github.com/user-attachments/assets/407beff8-4b84-4156-8ddd-bb170f548ad1" />
