@@ -17,9 +17,10 @@
 
 ## 🎯 Project Purpose
 
-- To provide visual insights into sales performance over time  
-- To analyze profit margins and identify which products/categories are most/least profitable  
-- To enable interactive exploration (filters by product, time period, etc.) so stakeholders can make data‐driven decisions  
+- Explore sales trends and revenue growth over time  
+- Identify high-performing and underperforming products/categories  
+- Analyze profit margins and sales performance  
+- Provide **interactive dashboards** to enable data-driven decisions
 
 ---
 
@@ -27,37 +28,48 @@
 
 ### Prerequisites
 
-- Tableau Desktop (or Tableau Public) to open and interact with the workbook  
-- The sample datasets in the `dataset/` folder  
+- [Tableau Desktop](https://www.tableau.com/products/desktop) (or Tableau Public)  
+- Sample dataset files from the `dataset/` folder
 
-### Usage
+### Steps
 
-1. Clone the repo:  
-   ```bash
-   git clone https://github.com/Himanshurawat-21/Tableau-Sales-Dashboard.git
+1. Clone the repository:
 
-2. Open the workbook from dashboard/.
-3. If prompted, link the workbook to the data files in dataset/.
-4. Explore filters, charts, dashboards to see sales trends, product performance, profits etc.
+```bash
+git clone https://github.com/Himanshurawat-21/Tableau-Sales-Dashboard.git
 
-## 🔍 Features
+```
 
-- Interactive dashboards with filters (time period, product/category, region etc.)
-- Visualizations for profit vs sales, trending products, growth over time
-- Clear layout aimed at non‐technical and technical users alike
-  
-## 🧮 What’s Inside
+2. Open the Tableau workbook from the dashboard/ folder.
+3. Connect the workbook to the dataset files in the dataset/ folder if prompted.
+4. Explore interactive filters, sales trends, profit analysis, and product performance charts.
 
-- Tableau files in the dashboard/ directory
-- Sample data in dataset/ to allow reproduction of the dashboards
-- Documentation in docs/ detailing how data is structured and how analyses are done
+## 📊 Features
 
-## ⚖️ License
+- Interactive Filters: Filter data by product, category, region, or time period
+- Dynamic Visualizations: Analyze sales, profits, and trends over time
+- Dashboard Layout: User-friendly design for easy navigation and actionable insights
+- Reproducible: Sample dataset included to recreate the dashboard easily
 
-  This project is licensed under the MIT License.
+## 🧾 Dataset Overview
+
+- dataset/sales_data.csv (example): Contains sales transactions with columns like:
+
+  - OrderID – Unique order identifier
+  - Product – Product name
+  - Category – Product category
+  - Region – Sales region
+  - Sales – Sales amount
+  - Profit – Profit amount
+
+## 📸 Screenshots
+ <img width="1211" height="820" alt="image" src="https://github.com/user-attachments/assets/407beff8-4b84-4156-8ddd-bb170f548ad1" />
+
+## 📄 License
+
+  This project is licensed under the MIT License
+
 
 ## 🧑‍💻 Author
 
-  Himanshu Rawat —@Himanshurawat-21
-
----
+  Himanshu Rawat — 
