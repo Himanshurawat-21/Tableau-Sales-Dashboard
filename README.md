@@ -99,4 +99,4 @@ git clone https://github.com/Himanshurawat-21/Tableau-Sales-Dashboard.git
 
 ## 🧑‍💻 Author
 
-  Himanshu Rawat — 
+  Himanshu Rawat — https://github.com/Himanshurawat-21
